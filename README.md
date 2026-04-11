@@ -1,5 +1,5 @@
 ## Hi, I'm Alvaro!
-📌System Engineer | [Lima-Perú]
+📌Graduate in Systems Engineering | [Lima-Perú]
 - Visit my [LinkedIn](https://www.linkedin.com/in/alvaroespinozagarate/)
 - Techstack: `.py`, `.java`, `.js`, `.cs`, `.css`, `.html`
 
@@ -7,6 +7,6 @@
 
 [![Follow](https://img.shields.io/github/followers/alvaro-espinozagarate?label=Seguir&style=social)](https://github.com/Alvaro-EspinozaGarate)
 ## GitHub Stacks
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaro-espinozagarate&show_icons=true&hide_border=true&theme=default&count_private=true&hide=issues)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alvaro-espinozagarate&theme=dark)](https://git.io/streak-stats)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-espinozagarate&layout=compact&hide_border=true&theme=default)
+![Stats](https://ghstats.dev/api/card?username=alvaro-espinozagarate&theme=dark)
